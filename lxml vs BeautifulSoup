@@ -1,0 +1,5 @@
+Scraping via lxml prove out to be efiicient than BeautifulSoup.
+
+Refrences : 
+http://edmundmartin.com/beautiful-soup-vs-lxml-speed/
+https://stackoverflow.com/questions/1922032/parsing-html-in-python-lxml-or-beautifulsoup-which-of-these-is-better-for-wha
